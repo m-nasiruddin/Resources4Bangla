@@ -1,1 +1,1 @@
-This directory contains all the corpora that used for this project.
+This directory contains all the corpora used in this project.
